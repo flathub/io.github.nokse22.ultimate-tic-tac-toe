@@ -30,7 +30,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/Nokse22/ultimate-tic-tac-toe",
-                    "commit" : "6824524364e26ccc82848f9e8ada058aab6bb419"
+                    "commit" : "8d6c047697678a4a0cd4a7f01226578df1554cfe"
                 }
             ]
         }
