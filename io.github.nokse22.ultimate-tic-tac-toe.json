@@ -1,7 +1,7 @@
 {
     "app-id" : "io.github.nokse22.ultimate-tic-tac-toe",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "44",
+    "runtime-version" : "46",
     "sdk" : "org.gnome.Sdk",
     "command" : "ultimate-tic-tac-toe",
     "finish-args" : [
@@ -29,9 +29,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "tag" : "v0.1.3",
                     "url" : "https://github.com/Nokse22/ultimate-tic-tac-toe",
-                    "commit" : "f5b11767a1946f29d945f82331a5d462c9f85bd6"
+                    "commit" : "6824524364e26ccc82848f9e8ada058aab6bb419"
                 }
             ]
         }
